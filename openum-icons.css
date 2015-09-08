@@ -61,6 +61,7 @@
     line-height: 0px;
     margin-right: 0px;
     margin-left: -0.2em;
+    vertical-align: -webkit-baseline-middle;
 }
 .icon-ht:before {
     content:'↬';
@@ -68,6 +69,7 @@
     line-height: 13px;
     margin-right: 0px;
     margin-left: -0.2em;
+    vertical-align: -webkit-baseline-middle;
 }
 
 .icon-location:before { content: '\e800'; } /* '' */
