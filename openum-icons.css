@@ -113,7 +113,6 @@
 .icon-blog:before { content: '\e826'; } /* '' */
 .icon-review:before { content: '\e827'; } /* '' */
 .icon-vcard:before { content: '\e828'; } /* '' */
-.icon-info:before { content: '\e829'; } /* '' */
 .icon-home:before { content: '\e82a'; } /* '' */
 .icon-link:before { content: '\e82b'; } /* '' */
 .icon-attach:before { content: '\e82c'; } /* '' */
@@ -166,13 +165,17 @@
 .icon-evernote:before { content: '\e85b'; } /* '' */
 .icon-time:before { content: '\e85c'; } /* '' */
 .icon-viadeo:before { content: '\e85d'; } /* '' */
+.icon-play:before { content: '\e85e'; } /* '' */
 .icon-law:before { content: '\e85f'; } /* '' */
+.icon-list:before { content: '\e860'; } /* '' */
 .icon-stop:before { content: '\e861'; } /* '' */
 .icon-flag:before { content: '\e862'; } /* '' */
 .icon-download:before { content: '\e863'; } /* '' */
 .icon-filter:before { content: '\e864'; } /* '' */
 .icon-alert:before { content: '\e865'; } /* '' */
+.icon-info:before { content: '\e866'; } /* '' */
 .icon-left-open:before { content: '\e867'; } /* '' */
+.icon-help:before { content: '\e868'; } /* '' */
 .icon-arrow-right:before,
 .icon-right-open:before { content: '\e869'; } /* '' */
 .icon-wordpress:before { content: '\e86a'; } /* '' */
