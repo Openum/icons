@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'openum-icons';
-    src: url('../openum-icons.svg?49645139#openum-icons') format('svg');
+    src: url('openum-icons.svg?49645139#openum-icons') format('svg');
   }
 }
 */
