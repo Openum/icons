@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'openum-icons';
-  src: url('../font/openum-icons.eot?49645139');
-  src: url('../font/openum-icons.eot?49645139#iefix') format('embedded-opentype'),
-       url('../font/openum-icons.woff2?49645139') format('woff2'),
-       url('../font/openum-icons.woff?49645139') format('woff'),
-       url('../font/openum-icons.ttf?49645139') format('truetype'),
-       url('../font/openum-icons.svg?49645139#openum-icons') format('svg');
+  src: url('../openum-icons.eot?49645139');
+  src: url('../openum-icons.eot?49645139#iefix') format('embedded-opentype'),
+       url('../openum-icons.woff2?49645139') format('woff2'),
+       url('../openum-icons.woff?49645139') format('woff'),
+       url('../openum-icons.ttf?49645139') format('truetype'),
+       url('../openum-icons.svg?49645139#openum-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'openum-icons';
-    src: url('../font/openum-icons.svg?49645139#openum-icons') format('svg');
+    src: url('../openum-icons.svg?49645139#openum-icons') format('svg');
   }
 }
 */
