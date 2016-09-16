@@ -9,6 +9,7 @@
   font-weight: normal;
   font-style: normal;
 }
+
 /* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
 /* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
 /*
@@ -166,7 +167,9 @@
 .icon-evernote:before { content: '\e85b'; } /* '' */
 .icon-time:before { content: '\e85c'; } /* '' */
 .icon-viadeo:before { content: '\e85d'; } /* '' */
+.icon-list:before { content: '\e85e'; } /* '' */
 .icon-law:before { content: '\e85f'; } /* '' */
+.icon-playlist:before { content: '\e860'; } /* '' */
 .icon-stop:before { content: '\e861'; } /* '' */
 .icon-flag:before { content: '\e862'; } /* '' */
 .icon-download:before { content: '\e863'; } /* '' */
