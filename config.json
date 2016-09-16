@@ -33,6 +33,12 @@
       "src": "fontawesome"
     },
     {
+      "uid": "9a76bc135eac17d2c8b8ad4a5774fc87",
+      "css": "download",
+      "code": 59491,
+      "src": "fontawesome"
+    },
+    {
       "uid": "7034e4d22866af82bef811f52fb1ba46",
       "css": "code",
       "code": 59499,
@@ -643,6 +649,8 @@
       "css": "youtube",
       "code": 62227,
       "src": "websymbols"
+<<<<<<< HEAD
+=======
     },
     {
       "uid": "ef47651da3866460f27baf85ae234e5c",
@@ -651,24 +659,19 @@
       "src": "iconic"
     },
     {
-      "uid": "cec78abc0f64ffa8a1ea5bf4a61030a2",
+      "uid": "0be1140fcd39404e60bd29c718fbd905",
       "css": "playlist",
       "code": 59488,
       "src": "custom_icons",
       "selected": true,
       "svg": {
-        "path": "M861.4 777.8V229.1H819.2V738.9H153V777.8H819.2M929.6 340.3V850.1H263.4V889H971.8V340.3M756.4 133H41V668H756.4V133ZM306.5 564.3V236.7L531.8 403.9 306.5 564.3Z",
+        "path": "M632.5 603.3V732.6L745.3 668.3 632.5 603.3ZM240 523.8V562.2H753.3V485.3H240V523.8ZM239.2 377.9V416.4H752.5V339.4H239.2V377.9ZM240 666.3V704.7H531.7V627.8H240V666.3Z",
         "width": 1000
       },
       "search": [
         "playlist"
       ]
-    },
-    {
-      "uid": "9a76bc135eac17d2c8b8ad4a5774fc87",
-      "css": "download",
-      "code": 59491,
-      "src": "fontawesome"
+>>>>>>> master
     }
   ]
 }
